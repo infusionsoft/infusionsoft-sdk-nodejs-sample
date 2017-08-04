@@ -1,3 +1,6 @@
+# Never store ClientIds and ClientSecrets in a repository
+config.json
+
 # Logs
 logs
 *.log

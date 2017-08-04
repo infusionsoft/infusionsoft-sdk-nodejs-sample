@@ -1,0 +1,34 @@
+{
+  "name": "infusionsoft-sdk-nodejs-sample",
+  "version": "1.0.0",
+  "description": "A sample nodejs application showing OAuth2 integration and the infusionsoft-sdk.",
+  "main": "Add topics",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infusionsoft/infusionsoft-sdk-nodejs-sample.git"
+  },
+  "keywords": [
+    "infusionsoft",
+    "nodejs"
+  ],
+  "author": "api@infusionsoft.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infusionsoft/infusionsoft-sdk-nodejs-sample/issues"
+  },
+  "homepage": "https://github.com/infusionsoft/infusionsoft-sdk-nodejs-sample#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "compression": "^1.6.2",
+    "connect": "^3.5.0",
+    "cookie-session": "^2.0.0-alpha.1",
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "passport": "^0.3.2",
+	"passport-infusionsoft": "^0.0.3",
+	"infusionsoft-sdk": "^0.0.2"
+  }
+}

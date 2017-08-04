@@ -1,0 +1,14 @@
+{
+  "development": {
+    "serverAddress": "http://localhost",
+    "port": 16000,
+    "cookieSessionKeys": ["randomsessionkey"],
+    "infusionsoft": {
+      "clientId": "infusionsoftdeveleoperclientid",
+      "clientSecret": "infusionsoftdeveleoperclientsecret"
+    }
+ },
+ "test": {},
+ "production": {}
+}
+
